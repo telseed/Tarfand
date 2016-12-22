@@ -269,9 +269,6 @@ An advanced administration bot based on TG-CLI written in Lua
 
 https://github.com/Tarfand-pro/Tarfand
 
-Admins
-@NECCBOT
-
 ]],
     help_text_realm = [[
 Realm Commands:
